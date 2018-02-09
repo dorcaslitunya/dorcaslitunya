@@ -1,22 +1,3 @@
-# Web portfolio
-#### A portfolio about my work as a programmer., 8th February 2017
-#### By **Dorcas Litunya**
-## Description
-This is my web portfolio containing what I do and my job experience. It also has  direct links to the projects I have worked on. So it is basically all one needs to know about me as  a programmer.
-## Setup/Installation Requirements
-To check it out:
-* Open your browser.
-* Key in https://dorcaslitunya.github.io/dorcaslitunya where you type in your url
-* My work portfolio automatically opens!!
-Quick and easy
-
-
-## Technologies Used
-The webpage was developed using HTML,CSS and Bootstrap version 3.3.7 were used to style the webpage.
-## Support and contact details
-My portfolio viewers are my most priced possession!! So any ideas to make this experience more fantastic are welcome.If you run into any issue or problem you can reach me at anonolitunya@gmail.com
-### License
-
 MIT License
 
 Copyright (c) [2018] [Dorcas Litunya]
