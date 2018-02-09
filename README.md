@@ -6,7 +6,7 @@ This is my web portfolio containing what I do and my job experience. It also has
 ## Setup/Installation Requirements
 To check it out:
 * Open your browser.
-* Key in https://dorcaslitunya.github.io/dorcaslitunya where you type in your url
+* Key in https://dorcaslitunya.github.io/ where you type in your url
 * My work portfolio automatically opens!!
 Quick and easy
 
