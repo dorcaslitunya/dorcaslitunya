@@ -1,5 +1,5 @@
 # Web portfolio
-#### A portfolio about my work as a programmer., 8th February 2017
+#### A portfolio about my work as a programmer. 8th February 2017
 #### By **Dorcas Litunya**
 ## Description
 This is my web portfolio containing what I do and my job experience. It also has  direct links to the projects I have worked on. So it is basically all one needs to know about me as  a programmer.
