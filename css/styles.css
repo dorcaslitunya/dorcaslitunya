@@ -5,13 +5,17 @@
   font-style: italic;
 }
 .important h5{
-  color: purple
+  color: purple;
+  font-weight: bold;
 }
 .important h6{
-  color: purple
+  color: purple;
+  font-weight: bold;
 }
 .important h4{
-  color:purple
+  color:purple;
+  font-weight: bold;
+
 }
 .important h3{
   color: purple
