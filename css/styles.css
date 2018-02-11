@@ -1,6 +1,18 @@
-.important {
-  color: black
+.important h1 {
+  color: pink
 }
-.important{
+.important {
   font-style: italic;
+}
+.important h5{
+  color: purple
+}
+.important h6{
+  color: purple
+}
+.important h4{
+  color:purple
+}
+.important h3{
+  color: purple
 }
