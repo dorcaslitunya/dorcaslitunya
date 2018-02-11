@@ -1,8 +1,11 @@
 .important h1 {
-  color: pink
+  color: purple
 }
 .important {
-  font-style: italic;
+  font-style: normal;
+}
+.important{
+  font-weight: bolder;
 }
 .important h5{
   color: purple;
@@ -19,4 +22,8 @@
 }
 .important h3{
   color: purple
+}
+body {
+  background-image:url(https://cdn2.f-cdn.com/ppic/5412243/logo/8587463/The-best-top-desktop-blue-wallpapers-blue-wallpaper-blue-background-hd-25.jpg) ;
+
 }
